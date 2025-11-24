@@ -8,10 +8,3 @@
 	"authorUrl": "",
 	"isDesktopOnly": false
 }
-{
-  "id": "upim",
-  "name": "UPIM",
-  "author": "CLING",
-  "description": "EasyImage Uploader - Upload images to EasyImages2.0 image hosting service and automatically insert markdown links. Supports batch upload, connection testing, and seamless integration with your notes.",
-  "repo": "clingwl/upim",
-}
