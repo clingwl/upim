@@ -1,10 +1,10 @@
 {
 	"id": "upim",
-	"name": "UPIM - EasyImage Uploader",
+	"name": "UPIM",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Upload images to EasyImages2.0 image hosting service and automatically insert markdown links. Supports batch upload, connection testing, and seamless integration with your notes.",
 	"author": "CLING",
-	"authorUrl": "",
+	"authorUrl": "https://github.com/clingwl",
 	"isDesktopOnly": false
 }
