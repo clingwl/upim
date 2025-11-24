@@ -7,7 +7,13 @@ build/
 
 # User-specific data (should not be committed)
 data.json
-
+esbuild.config.mjs
+main.ts
+package.json
+tsconfig.json
+version-bump.mjs
+PUBLISH.md
+build.ps1
 # IDE and editor files
 .vscode/
 .idea/
